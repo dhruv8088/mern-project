@@ -3,6 +3,7 @@
 ## Description
 - A basic website made using mern stack
 - The data is stored in mongo db .
+- Used hbs for storing and getting the dynamic data.
 
 ## Getting Started
 - For running the site clone the repository.
